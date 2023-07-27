@@ -16,7 +16,7 @@
 :root {
     --synth-background-image:   url();
     --synth-backdrop-opacity:   0.3         ;
-    --synth-overlay-color:      0 0 255   ;
+    --synth-overlay-color:      0 0 254   ;
     --synth-crt-light:          255 255 255 ;
     --synth-crt-dark:           0   0   0   ;
     --synth-crt-flicker:        flicker       ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
